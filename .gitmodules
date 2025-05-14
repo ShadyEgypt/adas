@@ -1,0 +1,12 @@
+[submodule "adas-sagemaker"]
+	path = adas-sagemaker
+	url = https://github.com/ShadyEgypt/adas-sagemaker.git
+[submodule "adas-apollo-node"]
+	path = adas-apollo-node
+	url = https://github.com/ShadyEgypt/adas-apollo-node.git
+[submodule "adas-flask"]
+	path = adas-flask
+	url = https://github.com/ShadyEgypt/adas-flask.git
+[submodule "adas-react"]
+	path = adas-react
+	url = https://github.com/ShadyEgypt/adas-react.git
